@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Douglasbusnello
-- 🔭 I’m currently working with PHP, NodeJS and ReactJS
+- 🔭 I’m currently working with PHP
 - 👀 I’m interested in ReactJS, React Native, Flutter, NodeJS, JavaScript, PHP
 - 🌱 I’m currently learning ReactJS and NodeJS
 - 📫 How to reach me doug_busnello@hotmail.com
